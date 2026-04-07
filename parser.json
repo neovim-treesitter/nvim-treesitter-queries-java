@@ -1,7 +1,7 @@
 {
-  "semver": false,
   "url": "https://github.com/tree-sitter/tree-sitter-java",
-  "lang": "java",
+  "semver": false,
   "parser_version": "e10607b45ff745f5f876bfa3e94fbcc6b44bdc11",
+  "lang": "java",
   "location": null
 }
