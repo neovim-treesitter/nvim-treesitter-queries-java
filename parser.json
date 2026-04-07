@@ -1,8 +1,7 @@
 {
   "url": "https://github.com/tree-sitter/tree-sitter-java",
   "semver": false,
-  "min_version": null,
-  "max_version": null,
+  "parser_version": "e10607b45ff745f5f876bfa3e94fbcc6b44bdc11",
   "location": null,
   "lang": "java"
 }
